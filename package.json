@@ -11,9 +11,12 @@
     "react",
     "reactjs",
     "darksky",
+    "forecast.io"
     "plotly",
     "plotly.js",
     "create-react-app"
+    "CORS",
+    "proxy"
   ],
   "author": "twitter.com/_cloudmu (http://github.com/cloudmu)",
   "license": "MIT",
