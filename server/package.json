@@ -1,0 +1,14 @@
+{
+  "description": "This is for the api server",
+  "name": "server-api",
+  "dependencies": {
+      "express": "^4.14.0",
+      "body-parser": "^1.15.2",
+      "isomorphic-fetch": "^2.2.1",
+      "es6-promise": "^4.0.5"
+  },
+
+  "scripts": {
+    "server": "node server.js"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "darksky",
+  "homepage": "https://cloudmu.github.com/darksky",
+  "version": "0.0.1",
+  "description": "A weather app to show weather report using darksky, reactjs, and plotly.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudmu/darksky"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "darksky",
+    "plotly",
+    "plotly.js",
+    "create-react-app"
+  ],
+  "author": "twitter.com/_cloudmu (http://github.com/cloudmu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudmu/darksky/issues"
+  },
+
+  "proxy": "http://localhost:3001",
+  
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.16.4",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-addons-shallow-compare": "15.3.2"
+  },
+  
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
