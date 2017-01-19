@@ -11,10 +11,10 @@
     "react",
     "reactjs",
     "darksky",
-    "forecast.io"
+    "forecast.io",
     "plotly",
     "plotly.js",
-    "create-react-app"
+    "create-react-app",
     "CORS",
     "proxy"
   ],
@@ -27,15 +27,16 @@
   "proxy": "http://localhost:3001",
   
   "devDependencies": {
-    "react-scripts": "0.7.0"
+    "react-scripts": "0.8.5"
   },
 
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.16.4",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
-    "react-addons-shallow-compare": "15.3.2"
+    "lodash": "^4.17.4",
+    "plotly.js": "1.21.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-addons-shallow-compare": "15.4.2"
   },
   
   "scripts": {
