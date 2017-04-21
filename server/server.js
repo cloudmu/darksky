@@ -20,7 +20,7 @@ app.get('/api/', function(req, res) {
 
 
 // Following is an example to proxy client request to DarkSky forecast API
-var DARKSKY_SECRET_KEY = '737b94bde73808de6461d458bb157366'; // Please use your own darksky secret key. 
+var DARKSKY_SECRET_KEY = '737b94bde73808de6461d458bb157399'; // Please use your own darksky secret key. 
                                                              // Get one for free at https://darksky.net/dev/
                                                              // DarkSky returns 403 (forbidden) error for invalid key.
 

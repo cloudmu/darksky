@@ -33,10 +33,9 @@
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.4",
-    "plotly.js": "1.21.3",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-addons-shallow-compare": "15.4.2"
+    "plotly.js": "1.26.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   },
   
   "scripts": {
